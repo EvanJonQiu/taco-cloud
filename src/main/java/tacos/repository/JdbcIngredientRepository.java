@@ -9,6 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import tacos.model.Ingredient;
 
+/*
 @Repository
 public class JdbcIngredientRepository implements IngredientRepository {
 	
@@ -43,3 +44,4 @@ public class JdbcIngredientRepository implements IngredientRepository {
 	}
 
 }
+*/

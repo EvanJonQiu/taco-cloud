@@ -15,6 +15,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import tacos.model.Order;
 import tacos.model.Taco;
 
+/*
 @Repository
 public class JdbcOrderRepository implements OrderRepository {
 
@@ -61,3 +62,4 @@ public class JdbcOrderRepository implements OrderRepository {
 	}
 
 }
+*/

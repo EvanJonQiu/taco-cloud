@@ -17,6 +17,7 @@ import tacos.controller.OrderController;
 import tacos.model.Ingredient;
 import tacos.model.Taco;
 
+/*
 @Repository
 @Slf4j
 public class JdbcTacoRepository implements TacoRepository {
@@ -66,3 +67,5 @@ public class JdbcTacoRepository implements TacoRepository {
 	        tacoId, ingredient.getId());
 	  }
 }
+
+*/
